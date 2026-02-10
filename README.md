@@ -30,7 +30,7 @@ Replace these placeholder images with your own photos:
 
 You can personalize the text in `index.html`:
 
-- Line 18: Change "Hafsa" and "Shoaib" to your names
+- Line 18: Change "Aisha" and "Ahmed" to your names
 - Line 19: Customize the subtitle message
 - Line 35: Update the "Best decision ever" message
 
