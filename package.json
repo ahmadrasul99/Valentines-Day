@@ -1,0 +1,13 @@
+{
+  "name": "valentine-proposal",
+  "version": "1.0.0",
+  "description": "A sweet Valentine's Day proposal website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["valentine", "proposal", "love"],
+  "author": "Ahmed",
+  "license": "MIT"
+}
